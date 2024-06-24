@@ -8,7 +8,7 @@ export const mintText = [
 ];
 
 //header image in the ui. replace with your own
-export const image = "https://arweave.net/IZABYVVlO-E3EUuOKOHwwv7q1T-m7XO6Llc3iB80F0A";
+export const image = "https://arweave.net/ZxMlTsmCYc_Mr2J7JzPcfkyeB3GHIa424q9EwyKGIuA?ext=png";
 
 //website title
 export const headerText = "SSU MINT";
