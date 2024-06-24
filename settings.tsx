@@ -8,7 +8,7 @@ export const mintText = [
 ];
 
 //header image in the ui. replace with your own
-export const image = "https://avatars.githubusercontent.com/u/93528482?v=4";
+export const image = "https://arweave.net/IZABYVVlO-E3EUuOKOHwwv7q1T-m7XO6Llc3iB80F0A";
 
 //website title
-export const headerText = "MarkSackerberg's mint UI";
+export const headerText = "SSU MINT";
